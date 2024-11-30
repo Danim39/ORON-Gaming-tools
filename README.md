@@ -1,7 +1,9 @@
 this app make gaming ipv4 dns 
 writed wiht PyQt6
 first 
+
       pip install PyQt6
+      
 than you can use this code
 
 this app have premium version in premium version you can make 
